@@ -18,7 +18,7 @@ This Java project is a multi-threaded implementation of a fractal flame generato
 Make sure you have Java Runtime Environment (JRE) installed on your system.
 
 ### How to Run
-1. Download the latest release of the project from the [Releases](link to releases page) page.
+1. Download the latest release of the project from the https://github.com/nikitakosh/FractalFlameGenrator/releases/tag/FractalFlameGenerator .
 2. Open a terminal and navigate to the directory where you downloaded the JAR file.
 3. Run the program with desired parameters. For example:
     ```bash
